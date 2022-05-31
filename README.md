@@ -1,4 +1,4 @@
-ASHLEY J ZHOU
+## ASHLEY J ZHOU
 
 - 🌱 : Medtech & business! '23
 - 🦄 : Learning Rust + tailwind / Bulma
