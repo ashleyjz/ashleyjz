@@ -1,6 +1,6 @@
-## ASHLEY J ZHOU
+## ASHLEY
 
-- 🌱 : Medtech & business! '27
+- 🌱 : CS '27
 - 🦄 : Learning Rust + tailwind / Bulma
 - 💻 : Java, Python, R, JS, Flutter
 
