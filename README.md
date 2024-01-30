@@ -1,6 +1,4 @@
 ## ASHLEY
 
 - 🌱 : CS '27
-- 🦄 : Learning Rust + tailwind / Bulma
-- 💻 : Java, Python, R, JS, Flutter
-
+- 💻 : Java, Python, C++, JS, HTML/CSS, R, Flutter
