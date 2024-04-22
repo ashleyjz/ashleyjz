@@ -1,4 +1,3 @@
-###
 <h1 align="center"><a href="https://ashleyjzhou.me">ashleyjzhou</a></h1>
 
 ### About Me
