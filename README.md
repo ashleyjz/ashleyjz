@@ -1,16 +1,17 @@
-<h1 align="center"><a href="https://ashleyjzhou.me">ashleyjzhou</a></h1>
+<h1 align="center">Hi, I'm Ashley!</h1>
+<h4 align="center"><a href="https://ashleyjzhou.me">ashleyjzhou.me</a></h4>
 
 ### About Me
 
 - 🌱 : CS & Econ @ UCI
-- 💻 : Fullstack web developer
+- 💻 : Fullstack web development
 - 🦄 : Currently exploring ML
 
 ### Dev Tools
 
+Languages:
 <div align="left">
-  Languages:
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="27" alt="html5 logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="27" alt="css3 logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="27" alt="javascript logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="27" alt="typescript logo"/>
@@ -20,8 +21,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="27" alt="r logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="27" alt="swift logo"/>
 </div>
+Frameworks:
 <div align="left">
-  Frameworks:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="27" alt="react logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="27" alt="nextjs logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="27" alt="tailwindcss logo"/>
