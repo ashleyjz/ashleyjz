@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Ashley!</h1>
-<h3 align="center"><a href="https://ashleyjzhou.me">ashleyjzhou.me</a></h3>
 
 ## About Me
 
